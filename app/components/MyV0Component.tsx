@@ -18,7 +18,7 @@ export default function Component() {
             <h2 className="text-2xl font-semibold mb-2">Meet Puppy Girl!</h2>
             <p className="text-muted-foreground">
               We're excited to announce the newest member of our family. She doesn't have a name yet, but she is a Golden Retriever puppy that was born on Saturday, October 5, 2024! 
-              Please follow the schedule below for his training and walks.
+              Please follow the schedule below for her training and walks.
             </p>
           </div>
         </div>
